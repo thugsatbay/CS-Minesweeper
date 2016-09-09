@@ -1,0 +1,17 @@
+c:\users\brick\documents\visual studio 2010\Projects\Minesweeper 2\Minesweeper 2\bin\Debug\Minesweeper 2.exe
+c:\users\brick\documents\visual studio 2010\Projects\Minesweeper 2\Minesweeper 2\bin\Debug\Minesweeper 2.pdb
+c:\users\brick\documents\visual studio 2010\Projects\Minesweeper 2\Minesweeper 2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\brick\documents\visual studio 2010\Projects\Minesweeper 2\Minesweeper 2\obj\x86\Debug\Minesweeper_2.Form1.resources
+c:\users\brick\documents\visual studio 2010\Projects\Minesweeper 2\Minesweeper 2\obj\x86\Debug\Minesweeper_2.Properties.Resources.resources
+c:\users\brick\documents\visual studio 2010\Projects\Minesweeper 2\Minesweeper 2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\brick\documents\visual studio 2010\Projects\Minesweeper 2\Minesweeper 2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\brick\documents\visual studio 2010\Projects\Minesweeper 2\Minesweeper 2\obj\x86\Debug\Minesweeper 2.exe
+c:\users\brick\documents\visual studio 2010\Projects\Minesweeper 2\Minesweeper 2\obj\x86\Debug\Minesweeper 2.pdb
+E:\5-Data\DIT\Minesweeper 2\Minesweeper 2\obj\x86\Debug\Minesweeper 2.exe
+E:\5-Data\DIT\Minesweeper 2\Minesweeper 2\obj\x86\Debug\Minesweeper 2.pdb
+E:\5-Data\DIT\Minesweeper 2\Minesweeper 2\bin\Debug\Minesweeper 2.exe
+E:\5-Data\DIT\Minesweeper 2\Minesweeper 2\bin\Debug\Minesweeper 2.pdb
+E:\5-Data\DIT\Minesweeper 2\Minesweeper 2\obj\x86\Debug\Minesweeper 2.csprojResolveAssemblyReference.cache
+E:\5-Data\DIT\Minesweeper 2\Minesweeper 2\obj\x86\Debug\Minesweeper_2.Form1.resources
+E:\5-Data\DIT\Minesweeper 2\Minesweeper 2\obj\x86\Debug\Minesweeper_2.Properties.Resources.resources
+E:\5-Data\DIT\Minesweeper 2\Minesweeper 2\obj\x86\Debug\Minesweeper 2.csproj.GenerateResource.Cache

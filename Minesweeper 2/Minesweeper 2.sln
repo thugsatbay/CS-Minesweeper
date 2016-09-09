@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweeper 2", "Minesweeper 2\Minesweeper 2.csproj", "{D15C1B0F-602A-4F0A-81B3-A6A7101CF584}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D15C1B0F-602A-4F0A-81B3-A6A7101CF584}.Debug|x86.ActiveCfg = Debug|x86
+		{D15C1B0F-602A-4F0A-81B3-A6A7101CF584}.Debug|x86.Build.0 = Debug|x86
+		{D15C1B0F-602A-4F0A-81B3-A6A7101CF584}.Release|x86.ActiveCfg = Release|x86
+		{D15C1B0F-602A-4F0A-81B3-A6A7101CF584}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
