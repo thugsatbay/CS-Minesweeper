@@ -15,3 +15,14 @@ E:\5-Data\DIT\Minesweeper 2\Minesweeper 2\obj\x86\Debug\Minesweeper 2.csprojReso
 E:\5-Data\DIT\Minesweeper 2\Minesweeper 2\obj\x86\Debug\Minesweeper_2.Form1.resources
 E:\5-Data\DIT\Minesweeper 2\Minesweeper 2\obj\x86\Debug\Minesweeper_2.Properties.Resources.resources
 E:\5-Data\DIT\Minesweeper 2\Minesweeper 2\obj\x86\Debug\Minesweeper 2.csproj.GenerateResource.Cache
+C:\Users\karol\OneDrive\Documentos\GitHub\CS-Minesweeper\Minesweeper 2\Minesweeper 2\bin\Debug\Minesweeper 2.exe.config
+C:\Users\karol\OneDrive\Documentos\GitHub\CS-Minesweeper\Minesweeper 2\Minesweeper 2\bin\Debug\Minesweeper 2.exe
+C:\Users\karol\OneDrive\Documentos\GitHub\CS-Minesweeper\Minesweeper 2\Minesweeper 2\bin\Debug\Minesweeper 2.pdb
+C:\Users\karol\OneDrive\Documentos\GitHub\CS-Minesweeper\Minesweeper 2\Minesweeper 2\obj\x86\Debug\Minesweeper 2.csproj.AssemblyReference.cache
+C:\Users\karol\OneDrive\Documentos\GitHub\CS-Minesweeper\Minesweeper 2\Minesweeper 2\obj\x86\Debug\Minesweeper 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\karol\OneDrive\Documentos\GitHub\CS-Minesweeper\Minesweeper 2\Minesweeper 2\obj\x86\Debug\Minesweeper_2.Form1.resources
+C:\Users\karol\OneDrive\Documentos\GitHub\CS-Minesweeper\Minesweeper 2\Minesweeper 2\obj\x86\Debug\Minesweeper_2.Properties.Resources.resources
+C:\Users\karol\OneDrive\Documentos\GitHub\CS-Minesweeper\Minesweeper 2\Minesweeper 2\obj\x86\Debug\Minesweeper 2.csproj.GenerateResource.cache
+C:\Users\karol\OneDrive\Documentos\GitHub\CS-Minesweeper\Minesweeper 2\Minesweeper 2\obj\x86\Debug\Minesweeper 2.csproj.CoreCompileInputs.cache
+C:\Users\karol\OneDrive\Documentos\GitHub\CS-Minesweeper\Minesweeper 2\Minesweeper 2\obj\x86\Debug\Minesweeper 2.exe
+C:\Users\karol\OneDrive\Documentos\GitHub\CS-Minesweeper\Minesweeper 2\Minesweeper 2\obj\x86\Debug\Minesweeper 2.pdb
